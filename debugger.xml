@@ -1,0 +1,16 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration captureAsyncStackTraces="false">
+          <custom-object-presentation enabled="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

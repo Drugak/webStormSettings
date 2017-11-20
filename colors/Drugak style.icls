@@ -1,0 +1,13 @@
+<scheme name="Drugak style" version="141" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="15a9c6" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
