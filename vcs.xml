@@ -18,6 +18,10 @@
           <option name="url" value="http://github.va.opower.it" />
           <option name="userName" value="Vitaliy.Drugak" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Drugak/urbain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
