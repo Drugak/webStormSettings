@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
