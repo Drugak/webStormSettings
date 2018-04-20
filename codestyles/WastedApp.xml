@@ -10,6 +10,9 @@
     <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
